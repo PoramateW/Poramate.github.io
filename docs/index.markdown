@@ -1,6 +1,13 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+# ABOUT ME
+![scene](https://user-images.githubusercontent.com/109730904/184161820-97028e38-c6f5-4107-8956-e3650cc136d4.jpg)
 
-layout: home
----
+
+**Name:** *Poramate Vorrapathtanachai*  **Nickname :** *Pai* **Age :** *23*
+#### University:
+*King mongkut's institute of technology north bangkok*
+#### Faculty:
+*Electrical and Computer Engineering*
+### Contract:
+**Email:** s6201012620147@email.kmutnb.ac.th
+
+**Github:** PoramateW [https://github.com/PoramateW]
